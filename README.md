@@ -1,7 +1,3 @@
-![image](https://github.com/Ahnsj828/Ahnsj828/assets/156299960/5cce9ec0-555d-49b9-abee-ad7f3e6153cd)<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20Sungjin%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=We%20Can%20Do%20It!&descAlignY=51&descAlign=62"/>
-</p>
-
 <p>
     <div align="center">
     <b>📅 # Today's Visit 📅</b>
