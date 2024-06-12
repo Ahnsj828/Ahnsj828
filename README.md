@@ -17,6 +17,8 @@
        <b>💻 # Main Skill & Language 💻</b>
        <br/>
        <br/>
+       <a href="https://aksen123.github.io/M_W_blog/" target="_blank"><img src="https://img.shields.io/badge/blog-17692e?style=flat&logo=Blogger&logoColor=fc6b3f" height="50px"/>
+</a>
        [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
        <img style="width: 150px; border-radius:30%;" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
        <img src="https://img.shields.io/badge/FontAwesome-528DD7?style=flat-square&logo=fontawesome&logoColor=white"/>
