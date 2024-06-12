@@ -2,6 +2,10 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20Sungjin%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=We%20Can%20Do%20It!&descAlignY=51&descAlign=62"/>
 </p>
 
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
+
 <p>
     <div align="center">
     <b>📅 # Today's Visit 📅</b>
