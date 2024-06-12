@@ -23,7 +23,7 @@
        <br/>
        <br/>
        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-       <img src="https://img.shields.io/badge/CSS3-1572B66?style=flat-square&logo=CSS3&logoColor=white"/>
+       <img src="https://img.shields.io/badge/CSS3-1572B66?style=flat-square&logo=CSS3&logoColor=#264DE4"/>
        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
        <br/>
        <br/>
@@ -36,10 +36,6 @@
        <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/>
        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-       <br/>
-       <br/>
-       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-       <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
    </div>
 </p>
     <br/>
@@ -51,7 +47,6 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
     </div>
 </p>
     <br/>
