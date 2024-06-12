@@ -1,4 +1,4 @@
-<p align='center'>
+![image](https://github.com/Ahnsj828/Ahnsj828/assets/156299960/5cce9ec0-555d-49b9-abee-ad7f3e6153cd)<p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20Sungjin%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=We%20Can%20Do%20It!&descAlignY=51&descAlign=62"/>
 </p>
 
@@ -7,7 +7,7 @@
     <b>📅 # Today's Visit 📅</b>
     <br/>
     <br/>
-    <a href="hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhnsj828&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhnsj828&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
     </div>
 </p>
 
