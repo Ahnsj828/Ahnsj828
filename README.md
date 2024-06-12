@@ -22,7 +22,11 @@
        <img src="https://img.shields.io/badge/GoogleFonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white"/>
        <br/>
 
-        [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,scss,styledcomponents)](https://github.com/aksen123)
+       <br />
+       <br /><br />
+       [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,scss,styledcomponents)](https://github.com/aksen123)
+
+        <br /><br />
         
        <br/>
        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
