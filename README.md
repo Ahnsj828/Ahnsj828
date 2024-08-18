@@ -21,7 +21,7 @@
        <b>💻 # Main Skill & Language 💻</b>
        <br/>
        <br/>
-       [![My Skills](https://skills.thijs.gg/api?i=react,node.js,docker,mongodb,postgresql,awslambda&theme=light)](#)
+     <img src="[BASE_URL]?i=react,node.js,docker,mongodb,postgresql,awslambda" />
        <img style="width: 150px; border-radius:30%;" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
        <img src="https://img.shields.io/badge/FontAwesome-528DD7?style=flat-square&logo=fontawesome&logoColor=white"/>
