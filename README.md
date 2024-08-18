@@ -21,6 +21,7 @@
        <br/>
        <br/>
        <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,typescript,figma,illustrator,photoshop&theme=light" />
+       <br/>
        <img src="https://img.shields.io/badge/FontAwesome-528DD7?style=flat-square&logo=fontawesome&logoColor=white"/>
        <img src="https://img.shields.io/badge/GoogleFonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white"/>
        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
